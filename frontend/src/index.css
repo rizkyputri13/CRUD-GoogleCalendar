@@ -1,0 +1,299 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+p {
+  margin: 0;
+}
+
+.login-or-sign-up {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.email-_black-_-24dp-1 {
+  position: absolute;
+  top: 214.14px;
+  left: 285.51px;
+  width: 19.25px;
+  height: 19.25px;
+}
+
+.group-2968 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 760px;
+  height: 1089.12px;
+}
+
+.enjoy-the-convenience-o {
+  position: absolute;
+  top: 25%;
+  left: 7%;
+  color: rgba(255, 255, 255, 1);
+  font-size: 3.5vw;
+  line-height: 4.5vw;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+/* .group-605 {
+  position: absolute;
+  top: 133px;
+  left: 1072px;
+  width: 547px;
+  height: 822.37px;
+  box-sizing: border-box;
+} */
+
+.group-605 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  max-width: 500px;
+  margin-top: 30px;
+}
+.don-thave-an-account-cre {
+  position: absolute;
+  top: 797.18px;
+  left: 71.07px;
+  color: rgba(63, 59, 49, 1);
+  font-size: 21.59px;
+  line-height: 21.59px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.group-684 {
+  position: absolute;
+  top: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 500px;
+  margin-top: 30px;
+  box-sizing: border-box;
+}
+.log-in-to-beam-space {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(235, 39, 48, 1);
+  font-size: 43.18px;
+  line-height: 43.18px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+
+.group-158 {
+  width: fit-content;
+  height: 62.98px;
+  padding: 17px 195.1px 15.98px 154px;
+  border-radius: 9px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 2.06px 6.86px 25.76px rgba(0, 0, 0, 0.05);
+}
+.group-279 {
+  position: relative;
+  width: 197.18px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.group-278 {
+  width: 36.31px;
+  height: 100%;
+}
+
+.group-157 {
+  position: absolute;
+  top: 2.41px;
+  left: 17.24px;
+  width: 179.93px;
+  height: 25.19px;
+  box-sizing: border-box;
+}
+.group-156 {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.log-in-with-google {
+  color: rgba(63, 59, 49, 1);
+  font-size: 21.59px;
+  line-height: 21.59px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.group-281 {
+  width: fit-content;
+  height: 62.98px;
+  padding: 16px 183.1px 15.98px 150px;
+  border-radius: 9px;
+  box-sizing: border-box;
+  background-color: rgba(58, 88, 155, 1);
+  box-shadow: 2.06px 6.86px 25.76px rgba(0, 0, 0, 0.1);
+}
+.group-280 {
+  position: relative;
+  width: 213.48px;
+  height: 100%;
+  box-sizing: border-box;
+}
+.group-48 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30.56px;
+  height: 100%;
+}
+
+.log-in-with-facebook {
+  position: absolute;
+  top: 1.88px;
+  left: 8.48px;
+  color: rgba(255, 255, 255, 1);
+  font-size: 21.59px;
+  line-height: 21.59px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.frame-251 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 11.18px;
+  width: 541.29px;
+  height: 25.56px;
+  box-sizing: border-box;
+}
+.or-login-with-your-email {
+  color: rgba(177, 177, 177, 1);
+  font-size: 21.9px;
+  line-height: 21.9px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+}
+
+.email-address {
+  color: rgba(63, 59, 49, 1);
+  font-size: 22px;
+  line-height: 22px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.group-845 {
+  width: fit-content;
+  height: 62.98px;
+  padding: 21px 313px 21.98px 19px;
+  border-radius: 9px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0.9px 4.5px rgba(0, 0, 0, 0.1);
+}
+.egname-email-com {
+  color: rgba(177, 177, 177, 1);
+  font-size: 21.59px;
+  line-height: 93%;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.password {
+  color: rgba(63, 59, 49, 1);
+  font-size: 22px;
+  line-height: 22px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.group-1110 {
+  width: fit-content;
+  height: 62.98px;
+  padding: 21px 330.1px 21.98px 19px;
+  border-radius: 9px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: inset 0px 0.9px 4.5px rgba(0, 0, 0, 0.1);
+}
+.enter-your-password {
+  color: rgba(177, 177, 177, 1);
+  font-size: 21.59px;
+  line-height: 93%;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+}
+
+.frame-14 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 9px;
+  width: 100%;
+  height: 62.98px;
+  padding: 12.6px;
+  border-radius: 9px;
+  box-sizing: border-box;
+  background-color: rgba(235, 39, 48, 1);
+  box-shadow: 4.5px 4.5px 11.7px rgba(235, 39, 48, 0.4);
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 21.59px;
+  line-height: 21.59px;
+  font-family: Roboto, sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+
+.forgot-password {
+  position: absolute;
+  top: 745px;
+  left: 165.03px;
+  color: rgba(0, 172, 238, 1);
+  font-size: 21.59px;
+  line-height: 21.59px;
+  font-family: Roboto, sans-serif;
+  font-weight: 700;
+}
+
+.frame-175 {
+  position: absolute;
+  top: 55.34px;
+  left: 100.25px;
+  width: 166px;
+  height: 64px;
+}
+
+@media only screen and (min-width: 768px) {
+  .login-or-sign-up {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .group-605 {
+    margin-top: 0;
+    width: 50%;
+    max-width: none;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .login-or-sign-up {
+    justify-content: space-between;
+  }
+
+  .group-605 {
+    width: 30%;
+  }
+}
